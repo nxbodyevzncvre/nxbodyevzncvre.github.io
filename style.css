@@ -3,7 +3,7 @@ body{
 	margin:0;
 	font-size:14px;
 	color:#fff;
-	background:url("img/bg-img2.jpg");
+	background-color:#1b191e;
 }
 
 *,*:before,*:after{
@@ -95,6 +95,7 @@ p{
 	max-width: 970px;
 	margin-top:100px;
 	text-align:center;
+	margin-left:100px;
 }
 
 .intro_title{
