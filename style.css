@@ -73,7 +73,7 @@ p{
 
 .nav_link:hover{
 	opacity:1;
-
+	cursor:pointer;
 }
 
 
@@ -171,7 +171,7 @@ p{
 
 .about_feat:hover{
 	color:white;
-
+	cursor: pointer;
 }
 
 .features_item{
@@ -326,10 +326,12 @@ p{
 
 .social__item:hover {
     background-color: #fff;
+		cursor:pointer;
 }
 
 .social__item:hover .social__icon {
     fill: #fff;
+		cursor:pointer;
 }
 
 .social__icon {
@@ -460,10 +462,12 @@ p{
 }
 .social__item_footer:hover {
     background-color: #fff;
+		cursor:pointer;
 }
 
 .social__item_footer:hover .social__icon {
     fill: #fff;
+		cursor:pointer;
 }					
 
 
